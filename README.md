@@ -11,7 +11,7 @@ I'm a senior student at USF majoring in Business Analytics and Information Syste
   - SQL
   - Python
 
-## Contact Me 
+## Connect
   - LinkedIn: www.linkedin.com/in/camila-campbell-01c050723 
 
 <!--
