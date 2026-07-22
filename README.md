@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+I'm a senior student at USF majoring in Business Analytics and Information Systems. Passionate about decision-making through data.
+
+## Skills
+  -  Tableau
+  -  Excel
+  -  C#
+
+## I'm currently learning
+  - SQL
+  - Python
+
+## Contact Me through
+  - LinkedIn: www.linkedin.com/in/camila-campbell-01c050723 
+
 <!--
 **Camila-2307/Camila-2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
