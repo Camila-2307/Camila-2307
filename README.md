@@ -6,9 +6,9 @@ I'm a senior student at USF majoring in Business Analytics and Information Syste
   -  Tableau
   -  Excel
   -  C#
+  -  SQL
 
 ## I'm currently learning
-  - SQL
   - Python
 
 ## Connect
