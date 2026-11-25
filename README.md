@@ -12,7 +12,7 @@ I'm a senior student at USF majoring in Business Analytics and Information Syste
   - Python
 
 ## Connect
-  - LinkedIn: www.linkedin.com/in/camila-campbell-01c050723 
+  - LinkedIn: www.linkedin.com/in/camila-campbell
 
 <!--
 **Camila-2307/Camila-2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
